@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Client API sample listing #1",
+    "description": "Sample advert created via the Client API tutorials.",
+    "advert_type": "rent",
+    "reality_type": "flat",
+    "reality_state": "renovated",
+    "energy_rating": "A",
+    "currency": "eur",
+    "measurement_system": "metric",
+    "price": {
+      "overall": 950,
+      "utilities": 150,
+      "show_price": true
+    },
+    "layout": {
+      "num_rooms": 2,
+      "floor_area": 68.5,
+      "floor_number": 4
+    },
+    "features": {
+      "furnishing": true,
+      "lift": true,
+      "dedicated_parking": false,
+      "internet": "fiber_optic"
+    },
+    "location": {
+      "lat": 48.14663,
+      "lon": 17.10775
+    },
+    "media": {
+      "photos": ["https://example.com/photos/sample-1.jpg"],
+      "videos": ["https://example.com/videos/sample-1.mp4"]
+    },
+    "is_vip": false
+  },
+  {
+    "title": "Client API sample listing #2",
+    "description": "Sample advert created via the Client API tutorials.",
+    "advert_type": "rent",
+    "reality_type": "flat",
+    "reality_state": "renovated",
+    "energy_rating": "A",
+    "currency": "eur",
+    "measurement_system": "metric",
+    "price": {
+      "overall": 990,
+      "utilities": 150,
+      "show_price": true
+    },
+    "layout": {
+      "num_rooms": 3,
+      "floor_area": 78.0,
+      "floor_number": 3
+    },
+    "features": {
+      "furnishing": true,
+      "lift": true,
+      "dedicated_parking": false,
+      "internet": "fiber_optic"
+    },
+    "location": {
+      "lat": 48.14763,
+      "lon": 17.10875
+    },
+    "media": {
+      "photos": ["https://example.com/photos/sample-2.jpg"],
+      "videos": ["https://example.com/videos/sample-2.mp4"]
+    },
+    "is_vip": false
+  }
+]

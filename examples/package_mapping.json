@@ -1,0 +1,8 @@
+{
+  "mapping": [
+    {
+      "package_uid": "<package_uid>",
+      "advert_ids": ["<advert_id_1>", "<advert_id_2>"]
+    }
+  ]
+}
